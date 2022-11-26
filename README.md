@@ -1,5 +1,7 @@
 # lacity-immersion-crypto-week
 
+https://assolacity.fr/immersion/crypto-week-sujet.pdf
+
 ## Get started
 
 ### Install dependencies
