@@ -1,6 +1,8 @@
 # lacity-immersion-crypto-week
 
-https://assolacity.fr/immersion/crypto-week-sujet.pdf
+- Subject: https://assolacity.fr/immersion/crypto-week-sujet.pdf
+
+- DEX: https://pancake.kiemtienonline360.com/#/swap
 
 ## Get started
 
@@ -21,3 +23,4 @@ npm start
 ```
 export NIXPKGS_ALLOW_UNFREE=1
 nix profile install nixpkgs#vscode --impure
+```
