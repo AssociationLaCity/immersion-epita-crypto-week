@@ -1,0 +1,14 @@
+{
+    "scripts": {
+        "start": "cd blockchainscan && npm start",
+        "install": "cd blockchainscan && npm install",
+        "test": "cd dex-tutorial && truffle test ./test/exchange.js --network smart_chain_testnet"
+    },
+    "dependencies": {
+        "@openzeppelin/contracts": "^4.8.0",
+        "@truffle/hdwallet-provider": "^2.1.1",
+        "fs": "^0.0.1-security",
+        "truffle": "^5.6.7",
+        "truffle-plugin-verify": "^0.5.32"
+    }
+}
