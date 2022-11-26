@@ -17,3 +17,7 @@ _At the root of this repo_
 ```bash
 npm start
 ```
+
+```
+export NIXPKGS_ALLOW_UNFREE=1
+nix profile install nixpkgs#vscode --impure
